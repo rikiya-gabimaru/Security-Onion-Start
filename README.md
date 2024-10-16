@@ -64,6 +64,9 @@
 - Définir l'IP ou les réseaux de confiances qui pourront gérer Security Onion par la WUI
 - Définir l'activation ou non de la télémétrie pour aider l'équipe de développement du projet
 - Valider le résumé de la configuration
+
+**5 - Fin de configuration :**
+- Valider la fenêtre de fin de configuration
   
 ### FAQ :
 	- En cours de construction...
